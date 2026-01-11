@@ -1,0 +1,1 @@
+ C:\\Users\\Bisultan\\Desktop\\DataGroup_lesson109_simple\\.dart_tool\\flutter_build\\bb429586d55a1e5473ccf1cbfee86e74\\native_assets.json: 
